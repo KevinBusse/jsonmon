@@ -3,7 +3,7 @@ package main
 import "runtime"
 
 // Version is the application version.
-const Version = "3.1.4"
+const Version = "4.0.0"
 
 type VersionPayload struct {
 	App  string `json:"jsonmon"`
